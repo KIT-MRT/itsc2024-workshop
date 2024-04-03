@@ -28,8 +28,8 @@ The topics of interest of the workshop include, but are not limited to:
 - Evaluation and benchmarking of the aforementioned topics
 
 ### Important Deadlines: 
-- February 01, 2024: Workshop Paper Submission Deadline (firm deadline, no extension)
-- March 30, 2024: Workshop Paper Notification of Acceptance
+- ~~February 01, 2024: Workshop Paper Submission Deadline (firm deadline, no extension)~~
+- ~~March 30, 2024: Workshop Paper Notification of Acceptance~~
 - April 22, 2024: Workshop Final Paper Submission Deadline 
 
 Please see for details and potential updated deadlines the official website: [https://ieee-iv.org/2024/call-for-papers/](https://ieee-iv.org/2024/call-for-papers/)
@@ -49,6 +49,23 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 
 
 **Effects of Automation on Traffic**: Data-driven predictions can end up being implicitly conditioned on second-order effects. For example, seeing a recording vehicle or no driver in an autonomous car can influence traffic participant’s decisions. Fixed settings in automated functions, such as safe distances, can influence the traffic flow on highways. While this can potentially introduce a distribution shift for prediction algorithms it could be also leveraged to purposefully shape traffic. We invite therefore also approaches investigating these second-order effects, propagating in highly interactive scenarios.
+
+## Preliminary Agenda
+
+| 8:30 - 9:00   | Organizers     | Welcome          |
+|---------------|----------------|------------------|
+| 9:00 - 9:30   | TBA            | TALK1            |
+| 9:30 - 10:00  | TBA            | Keynote          |
+| 10:30 - 11:00 |                | Coffee Break     |
+| 11:00 - 11:30 | TBA            | TALK2            |
+| 11:30 - 12:00 | TBA            | TALK3            |
+| 12:00 - 13:00 |                | Lunch Break      |
+| 13:30 - 14:00 | TBA            | TALK4            |
+| 14:00 - 14:30 | Author Paper 1 | Paper Talk       |
+| 14:30 - 15:00 | -              | Coffee Break     |
+| 15:00 - 15:30 | Author Paper 2 | Paper Talk       |
+| 15:30 - 16:00 | TBA            | Panel Discussion |
+| 16:00 - 16:30 | Organizers     | Conclusion       |
 
 
 ## Organizers
