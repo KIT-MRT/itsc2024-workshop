@@ -12,12 +12,6 @@ excerpt: 'An IV2024 workshop.'
 This workshop will be held at the [35rd IEEE Intelligent Vehicles Symposium (IV)](https://ieee-iv.org/2024/), on June 2 - 5, 2024
 Jeju Shinhwa World, Jeju Island, Korea 
 
-## Call for Workshop Papers now open!
-
-We invite papers on novel, unpublished work in line with the focus of this workshop. Please see the topic list and content description or reach out when in doubt if your paper would be a good fit. 
-
-Please note that papers submitted for the workshop will undergo the same review process as the conference papers and will be published in the same proceedings. 
-
 ## Topics
 The topics of interest of the workshop include, but are not limited to:
 
