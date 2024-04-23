@@ -7,6 +7,86 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 title: 'Interaction-driven Behavior Prediction and Planning for Autonomous Vehicles'
 excerpt: 'An IV2024 workshop.'
+
+organizers_row:
+  - image_path: https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download
+    alt: "Sascha"
+    person_name: "Sascha Hornauer"
+    person_affiliation: "MINES Paris"
+  - image_path: https://cloud.minesparis.psl.eu/index.php/s/uM0S69C2HvK1P0g/download
+    alt: "Max"
+    person_name: "Maximilian Naumann"
+    person_affiliation: "Bosch Center for Artificial Intelligence (BCAI)"
+  - image_path: https://cloud.minesparis.psl.eu/index.php/s/xUp0YRt2gkYeCrW/download
+    alt: "Eike"
+    person_name: "Eike Rehder"
+    person_affiliation: "Robert Bosch GmbH"
+  - image_path: https://cloud.minesparis.psl.eu/index.php/s/EeNQ4Sd6Xvd3bpj/download
+    alt: "Jiachen"
+    person_name: "Jiachen Li"
+    person_affiliation: "Stanford University"
+  - image_path: https://cloud.minesparis.psl.eu/index.php/s/St0MsMoWj08Ui6K/download
+    alt: "Wei"
+    person_name: "Wei Zhan"
+    person_affiliation: "University of California at Berkeley"
+  - image_path: https://cloud.minesparis.psl.eu/index.php/s/nR8bFlVEe4QlsPp/download
+    alt: "Martin"
+    person_name: "Martin Lauer"
+    person_affiliation: "Karlsruhe Institute of Technology (KIT)"
+  - image_path: https://cloud.minesparis.psl.eu/index.php/s/QATKLUjJ1l2BA6F/download
+    alt: "Masayoshi"
+    person_name: "Masayoshi Tomizuka"
+    person_affiliation: "University of California at Berkeley"
+  - image_path: https://cloud.minesparis.psl.eu/index.php/s/EHn5azQzYNmRmM0/download
+    alt: "Arnaud"
+    person_name: "Arnaud de La Fortelle"
+    person_affiliation: "Heex Technologies"
+  - image_path: https://cloud.minesparis.psl.eu/index.php/s/F2fdqs7ZuidY5fW/download
+    alt: "Christoph"
+    person_name: "Christoph Stiller"
+    person_affiliation: "Karlsruhe Institute of Technology (KIT)"
+  - image_path: https://cloud.minesparis.psl.eu/index.php/s/QdPGyNJqiVWReXo/download
+    alt: "Marcel"
+    person_name: "Marcel Hallgarten"
+    person_affiliation: "University of Tübingen / Bosch"
+
+schedule:
+  - time: "8:30 - 9:00"
+    event: "Organizers"
+    content: "Welcome"
+  - time: "9:00 - 9:30"
+    event: "TBA"
+    content: "Talk 1"
+  - time: "9:30 - 10:30"
+    event: "TBA"
+    content: "Keynote"
+  - time: "10:30 - 11:00"
+    break: "Coffee Break"
+  - time: "11:00 - 11:30"
+    event: "TBA"
+    content: "Talk 2"
+  - time: "11:30 - 12:00"
+    event: "TBA"
+    content: "Talk 3"
+  - time: "12:00 - 13:00"
+    break: "Lunch Break"
+  - time: "13:00 - 14:00"
+    event: "TBA"
+    content: "Talk 4"
+  - time: "14:00 - 14:30"
+    event: "Author Paper 1"
+    content: "Paper Talk"
+  - time: "14:30 - 15:00"
+    break: "Coffee Break"
+  - time: "15:00 - 15:30"
+    event: "Author Paper 2"
+    content: "Paper Talk"
+  - time: "15:30 - 16:00"
+    event: "TBA"
+    content: "Panel Discussion"
+  - time: "16:00 - 16:30"
+    event: "Organizers"
+    content: "Conclusion"
 ---
 
 This workshop will be held at the [35rd IEEE Intelligent Vehicles Symposium (IV)](https://ieee-iv.org/2024/), on June 2 - 5, 2024
@@ -45,35 +125,10 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 **Effects of Automation on Traffic**: Data-driven predictions can end up being implicitly conditioned on second-order effects. For example, seeing a recording vehicle or no driver in an autonomous car can influence traffic participant’s decisions. Fixed settings in automated functions, such as safe distances, can influence the traffic flow on highways. While this can potentially introduce a distribution shift for prediction algorithms it could be also leveraged to purposefully shape traffic. We invite therefore also approaches investigating these second-order effects, propagating in highly interactive scenarios.
 
 ## Preliminary Agenda
-
-| 8:30 - 9:00   | Organizers     | Welcome          |
-|---------------|----------------|------------------|
-| 9:00 - 9:30   | TBA            | TALK1            |
-| 9:30 - 10:00  | TBA            | Keynote          |
-| 10:30 - 11:00 |                | Coffee Break     |
-| 11:00 - 11:30 | TBA            | TALK2            |
-| 11:30 - 12:00 | TBA            | TALK3            |
-| 12:00 - 13:00 |                | Lunch Break      |
-| 13:30 - 14:00 | TBA            | TALK4            |
-| 14:00 - 14:30 | Author Paper 1 | Paper Talk       |
-| 14:30 - 15:00 | -              | Coffee Break     |
-| 15:00 - 15:30 | Author Paper 2 | Paper Talk       |
-| 15:30 - 16:00 | TBA            | Panel Discussion |
-| 16:00 - 16:30 | Organizers     | Conclusion       |
-
+{% include schedule %}
 
 ## Organizers
-
-||||
-| :-: | :-: | :-: |
-| <img src="https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download" width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/uM0S69C2HvK1P0g/download" width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/xUp0YRt2gkYeCrW/download" width="196" height="250"> | 
-| **Sascha Hornauer**<br /> MINES Paris | **Maximilian Naumann** <br /> Bosch Center for<br /> Artificial Intelligence (BCAI) | **Eike Rehder** <br />  Robert Bosch GmbH |
-<img src="https://cloud.minesparis.psl.eu/index.php/s/EeNQ4Sd6Xvd3bpj/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/St0MsMoWj08Ui6K/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/nR8bFlVEe4QlsPp/download"  width="196" height="250"> |
-| **Jiachen Li** <br /> Stanford University | **Wei Zhan** <br /> University of California<br /> at Berkeley | **Martin Lauer** <br />  Karlsruhe Institute of<br /> Technology (KIT) |
-| <img src="https://cloud.minesparis.psl.eu/index.php/s/QATKLUjJ1l2BA6F/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/EHn5azQzYNmRmM0/download"  width="196" height="250"> | <img src="https://cloud.minesparis.psl.eu/index.php/s/F2fdqs7ZuidY5fW/download"  width="196" height="250"> |
-| **Masayoshi Tomizuka** <br /> University of California<br /> at Berkeley | **Arnaud de La Fortelle** <br /> Heex Technologies | **Christoph Stiller** <br /> Karlsruhe Institute<br /> of Technology (KIT) | 
-| | <img src="https://cloud.minesparis.psl.eu/index.php/s/QdPGyNJqiVWReXo/download"  width="196" height="250"> | |
-| | **Marcel Hallgarten** <br /> University of Tübingen / <br /> Bosch | |
+{% include feature_row id="organizers_row" %}
 
 
 Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.

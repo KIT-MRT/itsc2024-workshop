@@ -1,0 +1,44 @@
+{% if include.id %}
+  {% assign feature_row = page[include.id] %}
+{% else %}
+  {% assign feature_row = page.feature_row %}
+{% endif %}
+
+<br>
+
+<div class="feature__wrapper" style="display:inline; width:900px; vertical-align: top; padding:30px 0 0 0;">
+
+  {% for f in feature_row %}
+    {% if f.image_path %}
+    <div style="display:inline-block; width:350px; height: 100px">
+    <div style="display:inline-block; width:101px;">
+    <img style="width:78px; height:100px; position: relative; bottom: 40px;"
+        src="{{ f.image_path | relative_url }}"
+        alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+    </div>
+    <div style="display:inline-block; width:230px; line-height:1.4; vertical-align: top">
+    <p style="margin:0 0 5px 10px; vertical-align: top">{% if f.person_name %}{{ f.person_name | markdownify | remove: "<p>" | remove: "</p>" }}{% endif %}</p>
+    <p style="margin:0 0 0 10px; font-size:10px; vertical-align: top">{% if f.person_affiliation %}{{ f.person_affiliation | markdownify | remove: "<p>" | remove: "</p>" }}{% endif %}</p>
+    </div>
+    </div>
+
+    {% endif %}
+
+    {% if f.second_image_path %}
+
+      <div style="display:inline-block; width:350px; height: 120px">
+      <div style="display:inline-block; width:101px;">
+      <img style="width:100px; height:100px; position: relative; bottom: 40px;" 
+          src="{{ f.second_image_path | relative_url }}" 
+          alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+      </div>
+      <div style="display:inline-block; width:230px; line-height:1.4; vertical-align: top">
+      <p style="margin:0 0 5px 10px; vertical-align: top">{% if f.second_person_name %}{{ f.second_person_name | markdownify | remove: "<p>" | remove: "</p>" }}{% endif %}</p>
+      <p style="margin:0 0 0 10px; font-size:10px; vertical-align: top">{% if f.second_person_affiliation %}{{ f.second_person_affiliation | markdownify | remove: "<p>" | remove: "</p>" }}{% endif %}</p>
+      </div>
+      </div>
+
+    {% endif %}
+  {% endfor %}
+
+</div>
