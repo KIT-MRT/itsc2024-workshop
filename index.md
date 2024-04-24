@@ -17,6 +17,10 @@ organizers_row:
     alt: "Max"
     person_name: "Maximilian Naumann"
     person_affiliation: "Bosch Center for Artificial Intelligence (BCAI)"
+  - image_path: https://cloud.minesparis.psl.eu/index.php/s/QdPGyNJqiVWReXo/download
+    alt: "Marcel"
+    person_name: "Marcel Hallgarten"
+    person_affiliation: "University of Tübingen / Bosch"
   - image_path: https://cloud.minesparis.psl.eu/index.php/s/xUp0YRt2gkYeCrW/download
     alt: "Eike"
     person_name: "Eike Rehder"
@@ -45,10 +49,6 @@ organizers_row:
     alt: "Christoph"
     person_name: "Christoph Stiller"
     person_affiliation: "Karlsruhe Institute of Technology (KIT)"
-  - image_path: https://cloud.minesparis.psl.eu/index.php/s/QdPGyNJqiVWReXo/download
-    alt: "Marcel"
-    person_name: "Marcel Hallgarten"
-    person_affiliation: "University of Tübingen / Bosch"
 
 schedule:
   - time: "8:30 - 9:00"
