@@ -32,9 +32,9 @@
   .schedule-table-contentcol {
     display: inline;
     display: inline-block;
-    inline-size: 300px;
+    inline-size: 560px;
     line-height: normal;
-    padding: 0px 50px;
+    padding: 0px 0px;
   }
 
   .schedule-table-row-even {
@@ -55,7 +55,18 @@
     width: 100%;
     padding: 20px;
     /* border: solid 4px #CCCCCC; */
-  
+  }
+  .content-title{
+      display: none;
+    }
+  @media (max-width: 1300px) {
+    .content-title{
+      display: inline;
+    }
+    .schedule-table-contentcol {
+      width: 100%;
+      padding: 10px 50px 20px 60px;
+    }
   }
 </style>
 
@@ -112,6 +123,7 @@
       {% endif %}
       <div class="schedule-table-contentcol">
         {% if f.content %}
+          <p class="content-title" style="font-weight: bold; margin-bottom: 0px;">Title:</p>
           {{ f.content | markdownify | remove: "<p>" | remove: "</p>" }}{% endif %}
         {% if f.break %}
             <p style="font-weight: bold; font-style: italic; text-align: center; margin: 10px auto;">
