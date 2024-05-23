@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   IEEE IV 2024 Workshop on Interaction-driven Behavior Prediction and Planning for Autonomous Vehicles
 twitter_username: username
 github_username: m-naumann
-minimal_mistakes_skin: air
+minimal_mistakes_skin: contrast
 search: false
 
 # Build settings
