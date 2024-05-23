@@ -110,7 +110,8 @@ The topics of interest of the workshop include, but are not limited to:
 ### Important Deadlines: 
 - ~~February 01, 2024: Workshop Paper Submission Deadline (firm deadline, no extension)~~
 - ~~March 30, 2024: Workshop Paper Notification of Acceptance~~
-- April 22, 2024: Workshop Final Paper Submission Deadline 
+- ~~April 22, 2024: Workshop Final Paper Submission Deadline~~
+- Workshop: Eorimok Room. 8:30 - 16:30. 2nd of June  
 
 Please see for details and potential updated deadlines the official website: [https://ieee-iv.org/2024/call-for-papers/](https://ieee-iv.org/2024/call-for-papers/)
 
