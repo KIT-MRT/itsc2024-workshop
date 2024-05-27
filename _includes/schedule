@@ -65,7 +65,15 @@
     }
     .schedule-table-contentcol {
       width: 100%;
-      padding: 10px 50px 20px 60px;
+      padding: 0px 50px 20px;
+    }
+    .schedule-table-eventcol {
+      width: 100%;
+      padding: 10px 50px 0px;
+    }
+    .schedule-table-timecol {
+      padding: 0px 30px;
+
     }
   }
 </style>
