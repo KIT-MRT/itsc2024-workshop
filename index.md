@@ -62,7 +62,7 @@ schedule:
     content: "The key to proactive traffic interaction: Overcoming sequential integration of prediction and planning – a survey perspective"
   - time: "10:00 - 10:30"
     event: "Krzysztof Czarnecki"
-    content: "TBA"
+    content: "Interaction-driven marginal and joint trajectory prediction"
   - time: "10:30 - 11:00"
     break: "Coffee Break"
   - time: "11:00 - 11:30"
