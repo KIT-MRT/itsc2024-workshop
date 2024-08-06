@@ -6,21 +6,21 @@ header:
   overlay_image: assets/images/header_from_unsplash_dot_com.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 title: 'Interaction-driven Behavior Prediction and Planning for Autonomous Vehicles'
-excerpt: 'An IV2024 workshop.'
+excerpt: 'An ITSC2024 workshop.'
 
 organizers_row:
   - image_path: https://cloud.minesparis.psl.eu/index.php/s/8Ih7coZPaAkRkId/download
     alt: "Sascha"
     person_name: "Sascha Hornauer"
     person_affiliation: "MINES Paris"
-  - image_path: https://cloud.minesparis.psl.eu/index.php/s/uM0S69C2HvK1P0g/download
-    alt: "Max"
-    person_name: "Maximilian Naumann"
-    person_affiliation: "Bosch Center for Artificial Intelligence (BCAI)"
   - image_path: https://cloud.minesparis.psl.eu/index.php/s/QdPGyNJqiVWReXo/download
     alt: "Marcel"
     person_name: "Marcel Hallgarten"
     person_affiliation: "University of Tübingen / Bosch"
+  - image_path: https://cloud.minesparis.psl.eu/index.php/s/uM0S69C2HvK1P0g/download
+    alt: "Max"
+    person_name: "Maximilian Naumann"
+    person_affiliation: "Bosch Center for Artificial Intelligence (BCAI)"
   - image_path: https://cloud.minesparis.psl.eu/index.php/s/xUp0YRt2gkYeCrW/download
     alt: "Eike"
     person_name: "Eike Rehder"
@@ -51,52 +51,27 @@ organizers_row:
     person_affiliation: "Karlsruhe Institute of Technology (KIT)"
 
 schedule:
-  - time: "8:45 - 9:00"
+  - time: "8:30 - 8:40"
     event: "Organizers"
-    content: "Welcome"
-  - time: "9:00 - 9:30"
-    event: "Abhishek Vivekanadan"
-    content: "A Review of Reward Functions for Reinforcement Learning in the context of Autonomous Driving"
-  - time: "9:30 - 10:00"
-    event: "Steffen Hagedorn"
-    content: "The key to proactive traffic interaction: Overcoming sequential integration of prediction and planning – a survey perspective"
-  - time: "10:00 - 10:30"
-    event: "Krzysztof Czarnecki"
-    content: "Interaction-driven marginal and joint trajectory prediction"
-  - time: "10:30 - 11:00"
-    break: "Coffee Break"
-  - time: "11:00 - 11:30"
-    event: "Anna Meszaros"
-    content: "TrajFlow: Learning Distributions over Trajectories for Human Behavior Prediction"
-  - time: "11:30 - 12:00"
-    event: "Tobias Demmler"
-    content: "Towards Consistent and Explainable Motion Prediction using Heterogeneous Graph Attention"
-  - time: "12:00 - 13:00"
-    break: "Lunch Break"
-  - time: "13:00 - 14:00"
-    event: "Abhishek Vivekanadan"
-    content: "KI-PMF: Knowledge Integrated Plausible Motion Forecasting"
-  - time: "14:00 - 14:30"
-    event: "Zhexi Lian"
-    content: "Anti-bullying Adaptive Cruise Control: a proactive right-of-way protection approach"
-  - time: "14:30 - 15:00"
-    break: "Coffee Break"
-  - time: "15:00 - 15:30"
-    event: "Changsun Ahn"
-    content: "Evaluating and Enhancing the Human-like Interaction Features of Autonomous Vehicles"
-  - time: "15:30 - 16:00"
-    event: "Johannes Betz"
-    content: "Occlusion-aware Motion Planning in Uncertain Environments"
-  - time: "16:00 - 16:30"
+    content: "Introduction"
+  - time: "8:40 - 10:00"
     event: "TBA"
-    content: "Panel Discussion"
-  - time: "16:30 - 16:40"
+    content: "Regular Talks 1-4"
+  - time: "10:00 - 10:30"
+    break: "Coffee Break"
+  - time: "10:30 - 11:30"
+    event: "TBA"
+    content: "Regular Talks 5-7"
+  - time: "11:30 - 11:50"
+    event: "TBA"
+    content: "Keynote"
+  - time: "11:50 - 12:00"
     event: "Organizers"
     content: "Conclusion"
 ---
 
-This workshop will be held at the [35rd IEEE Intelligent Vehicles Symposium (IV)](https://ieee-iv.org/2024/), on June 2 - 5, 2024
-Jeju Shinhwa World, Jeju Island, Korea 
+This workshop will be held at the [27th IEEE International Conference on Intelligent Transportation Systems (ITSC)](https://ieee-itsc.org/2024/), on September 24 - 27, 2024
+Edmonton, Canada 
 
 ## Topics
 The topics of interest of the workshop include, but are not limited to:
@@ -107,13 +82,8 @@ The topics of interest of the workshop include, but are not limited to:
 - Second-order effects in heavy interactive scenarios
 - Evaluation and benchmarking of the aforementioned topics
 
-### Important Deadlines: 
-- ~~February 01, 2024: Workshop Paper Submission Deadline (firm deadline, no extension)~~
-- ~~March 30, 2024: Workshop Paper Notification of Acceptance~~
-- ~~April 22, 2024: Workshop Final Paper Submission Deadline~~
-- Workshop: Eorimok Room. 8:30 - 16:30. 2nd of June  
 
-Please check the official program for potential updates: [https://ieee-iv.org/2024/program/](https://ieee-iv.org/2024/program/)
+Please check the official program for potential updates: [https://ieee-itsc.org/2024/program/](https://ieee-itsc.org/2024/program/)
 
 ## Workshop Content
 
@@ -142,4 +112,4 @@ Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@m
 
 ## Past Editions
 
-At IV2023, the organizers hosted the latest edition of this workshop: [https://kit-mrt.github.io/iv2023-workshop/](https://kit-mrt.github.io/iv2023-workshop/).
+At IV2024, the organizers hosted the latest edition of this workshop: [https://kit-mrt.github.io/iv2024-workshop/](https://kit-mrt.github.io/iv2024-workshop/).
