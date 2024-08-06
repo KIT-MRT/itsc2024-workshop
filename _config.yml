@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: IEEE IV 2024 Workshop
+title: IEEE ITSC 2024 Workshop
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  IEEE IV 2024 Workshop on Interaction-driven Behavior Prediction and Planning for Autonomous Vehicles
+  IEEE ITSC 2024 Workshop on Interaction-driven Behavior Prediction and Planning for Autonomous Vehicles
 twitter_username: username
 github_username: m-naumann
 minimal_mistakes_skin: contrast
